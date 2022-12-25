@@ -10,7 +10,7 @@ import {Counter} from "./Counter"
 export const Home=()=>{
     return(
         <React.Fragment>
-            <h1>My Home</h1>
+            <h1>this is Home page of the website</h1>
             <br />
             <br />
 
