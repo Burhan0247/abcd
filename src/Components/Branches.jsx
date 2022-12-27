@@ -25,6 +25,7 @@ export const Branches=()=>{
                             <Card sx={{bgcolor:"aqua"}}>
                                 <CardContent>
                                 {item.Name},{item.City}                                
+                                {item.Name},{item.City}                                
                                 </CardContent></Card>
                         </Grid>
                     )
